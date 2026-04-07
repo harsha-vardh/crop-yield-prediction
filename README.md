@@ -68,6 +68,8 @@ crop-yield-prediction/
 - Node.js 14+
 - npm or yarn
 
+### Train the Models
+   - Train the models using anaconda navigator and provided ipynb file
 ### Backend Setup
 
 1. Navigate to the backend directory:
@@ -147,9 +149,6 @@ Models are trained on historical data covering multiple seasons and regions:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Future Enhancements
 
@@ -160,9 +159,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [ ] Implement time-series forecasting
 - [ ] Add pest/disease risk predictions
 
-## Support
-
-For issues or questions, please open an issue on GitHub or contact the maintainers.
 
 ---
 
